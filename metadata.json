@@ -1,0 +1,6 @@
+{
+  "name": "SafeYatra",
+  "description": "Safe travel companion with real-time location tracking, emergency SOS, and verified provider intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
